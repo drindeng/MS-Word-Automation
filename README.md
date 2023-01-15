@@ -1,4 +1,4 @@
-# MS-Word-Automation
+# Automating Microsoft Word with Python: A case study on extracting data from Microsoft Excel to create multiple packing slips
 
 It is shown how to automate Microsoft Word with Python.
 
